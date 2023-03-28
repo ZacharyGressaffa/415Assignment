@@ -2,7 +2,7 @@
   "name": "zgMongoTest",
   "version": "1.0.0",
   "description": "CKs Express Mongo Test on Render",
-  "main": "testmongo.js",
+  "main": "connect.js",
   "repository": "https://github.com/ZacharyGressaffa/415Assignment",
   "author": "ZG",
   "license": "MIT",
